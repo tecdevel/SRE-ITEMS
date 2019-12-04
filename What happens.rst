@@ -623,3 +623,18 @@ Plugins such as Flash or Java may execute as well, although not at this time on
 the Google homepage. Scripts can cause additional network requests to be
 performed, as well as modify the page or its layout, causing another round of
 page rendering and painting.
+
+
+
+.. _`Creative Commons Zero`: https://creativecommons.org/publicdomain/zero/1.0/
+.. _`"CSS lexical and syntax grammar"`: http://www.w3.org/TR/CSS2/grammar.html
+.. _`Punycode`: https://en.wikipedia.org/wiki/Punycode
+.. _`Ethernet`: http://en.wikipedia.org/wiki/IEEE_802.3
+.. _`WiFi`: https://en.wikipedia.org/wiki/IEEE_802.11
+.. _`Cellular data network`: https://en.wikipedia.org/wiki/Cellular_data_communication_protocol
+.. _`analog-to-digital converter`: https://en.wikipedia.org/wiki/Analog-to-digital_converter
+.. _`network node`: https://en.wikipedia.org/wiki/Computer_network#Network_nodes
+.. _`varies by OS` : https://en.wikipedia.org/wiki/Hosts_%28file%29#Location_in_the_file_system
+.. _`downgrade attack`: http://en.wikipedia.org/wiki/SSL_stripping
+.. _`OSI Model`: https://en.wikipedia.org/wiki/OSI_model
+
